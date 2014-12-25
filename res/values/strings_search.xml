@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="search_row1_text">Category:</string>
+    <string name="search_prompt_categories">Category</string>
+
+    <string-array name="search_array_categories">
+        <item>Communication</item>
+        <item>Education</item>
+        <item>Shopping</item>
+        <item>Travel &amp; Local</item>
+        <item>Transportation</item>
+        <item>Business</item>
+        <item>Finance</item>
+        <item>Productivity</item>
+        <item>Tools</item>
+        <item>Health &amp; Fitness</item>
+        <item>Medical</item>
+        <item>Sports</item>
+        <item>Racing</item>
+        <item>Books &amp; Reference</item>
+        <item>Comics</item>
+        <item>All</item>
+        <item>News &amp; Magazines</item>
+        <item>Libraries &amp; Demo</item>
+        <item>Casual</item>
+        <item>Entertainment</item>
+        <item>Lifestyle</item>
+        <item>Personalization</item>
+        <item>Weather</item>
+        <item>Media &amp; Video</item>
+        <item>Music &amp; Audio</item>
+        <item>Photography</item>
+        <item>Social</item>
+        <item>Arcade &amp; Action</item>
+        <item>Brain &amp; Puzzle</item>
+        <item>Cards &amp; Casino</item>
+        <item>Sports Games</item>
+    </string-array>
+
+    <string name="search_row2_text">Rating Value:</string>
+    <string name="search_prompt_rating_value">Rating Value</string>
+    <string name="search_row3_text">Min Rating Count:</string>
+    <string name="search_prompt_rating_count">Minimum Rating Count</string>
+
+    <string-array name="search_array_rating_count">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>50</item>
+        <item>100</item>
+        <item>500</item>
+        <item>1.000</item>
+        <item>5.000</item>
+        <item>10.000</item>
+        <item>50.000</item>
+        <item>100.000</item>
+        <item>500.000</item>
+        <item>1.000.000</item>
+    </string-array>
+
+    <string name="search_row4_text">Min Installation:</string>
+    <string name="search_prompt_installs_min">Minimum Installation</string>
+
+    <string-array name="search_array_installs_min">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>50</item>
+        <item>100</item>
+        <item>500</item>
+        <item>1.000</item>
+        <item>5.000</item>
+        <item>10.000</item>
+        <item>50.000</item>
+        <item>100.000</item>
+        <item>500.000</item>
+        <item>1.000.000</item>
+        <item>5.000.000</item>
+        <item>10.000.000</item>
+        <item>50.000.000</item>
+        <item>100.000.000</item>
+    </string-array>
+
+    <string name="search_button_search">Search</string>
+
+</resources>

@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">Apps4U</string>
+    <string name="menu_settings">Settings</string>
+    <string name="titleRecommender">Recommender</string>
+    <string name="titleTimeUsage">Time Usage</string>
+    <string name="titleSurpriseMe">Surprise Me!</string>
+    <string name="titleSearch">Search</string>
+    <string name="titleSearchResult">Search Result</string>
+    <string name="menuRecommendedApps">Recommended Apps</string>
+    <string name="menuTimeUsage">Time Usage</string>
+    <string name="sortBy">Sort:</string>
+    <string name="home_row1_column1">Time-aware</string>
+    <string name="home_row1_column2">Search</string>
+    <string name="home_row2_column1">Surprise me!</string>
+    <string name="home_row2_column2">Time Usages</string>
+    <string name="recommender_menu_why">Empty or less result?</string>
+    <string name="surpriseme_refresh">Refresh</string>
+    <string name="surpriseme_icon">App Icon</string>
+    <string name="surpriseme_button_surpriseme">Surprise Me!</string>
+
+</resources>

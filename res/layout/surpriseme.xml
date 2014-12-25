@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <ListView
+        android:id="@+id/surpriseme_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+    </ListView>
+
+    <View
+        android:layout_height="1dp"
+        
+        android:background="#339900" />
+    
+    <TableRow
+        android:id="@+id/tableRow1"
+        android:paddingTop="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center" >
+
+        <Button
+            android:id="@+id/surpriseme_button_surpriseme"
+            
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/surpriseme_button_surpriseme" />
+    </TableRow>
+
+</TableLayout>
+<!-- 
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <ListView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/surpriseme_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/surpriseme_button_surpriseme"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/surpriseme_button_surpriseme" />
+
+</LinearLayout>
+-->

@@ -1,0 +1,9 @@
+*.apk
+*.keystore
+bin/
+gen/
+ic_launcher-web.png
+info_key
+proguard-project.txt
+.classpath
+lint.xml

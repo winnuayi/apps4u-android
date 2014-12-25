@@ -1,0 +1,9 @@
+<resources>
+
+    <string-array name="sort_rfd_array">
+        <item>Last Time</item>
+        <item>Launch</item>
+        <item>Duration</item>
+    </string-array>
+
+</resources>

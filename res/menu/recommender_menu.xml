@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/recommender_menu_why"
+        android:icon="@drawable/ic_menu_info_details"
+        android:title="@string/recommender_menu_why"/>
+
+</menu>

@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menuRecommendedApps"
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        android:title="@string/menuRecommendedApps" />    
+    <item
+        android:id="@+id/menuTimeUsage"
+        android:icon="@android:drawable/ic_menu_recent_history"
+        android:title="@string/menuTimeUsage" />
+    
+</menu>
